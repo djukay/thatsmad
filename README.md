@@ -1,0 +1,2 @@
+# thatsmad
+First Github repository
